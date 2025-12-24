@@ -21,7 +21,7 @@ An interactive 3D Christmas tree experience built with React 19, TypeScript, and
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-   cd grand-luxury-interactive-christmas-tree
+   cd SR-christmas-tree
    ```
 
 2. **Install dependencies:**
