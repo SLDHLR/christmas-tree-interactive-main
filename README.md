@@ -1,4 +1,4 @@
-# 🎄 Grand Luxury Interactive Christmas Tree
+# 🎄 Christmas Tree
 
 An immersive, high-fidelity 3D Christmas tree experience featuring hand gesture control, dynamic chaos-to-order assembly, and luxurious emerald and gold aesthetics.
 
